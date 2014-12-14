@@ -63,6 +63,7 @@
             this.button31 = new System.Windows.Forms.Button();
             this.button32 = new System.Windows.Forms.Button();
             this.button33 = new System.Windows.Forms.Button();
+            this.Pina = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -373,6 +374,15 @@
             this.button33.Text = "G";
             this.button33.UseVisualStyleBackColor = true;
             // 
+            // Pina
+            // 
+            this.Pina.Location = new System.Drawing.Point(283, 355);
+            this.Pina.Name = "Pina";
+            this.Pina.Size = new System.Drawing.Size(96, 88);
+            this.Pina.TabIndex = 36;
+            this.Pina.Text = "Pina";
+            this.Pina.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
@@ -380,6 +390,7 @@
             this.BackgroundImage = global::MethaLizer.Properties.Resources.tumblr_ncs6l6oDl81qa5045o2_1280;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(984, 762);
+            this.Controls.Add(this.Pina);
             this.Controls.Add(this.button31);
             this.Controls.Add(this.button32);
             this.Controls.Add(this.button33);
@@ -462,6 +473,7 @@
         private System.Windows.Forms.Button button31;
         private System.Windows.Forms.Button button32;
         private System.Windows.Forms.Button button33;
+        private System.Windows.Forms.Button Pina;
     }
 }
 

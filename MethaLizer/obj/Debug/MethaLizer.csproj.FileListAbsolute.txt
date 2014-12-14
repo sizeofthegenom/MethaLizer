@@ -7,3 +7,12 @@ c:\users\abel\documents\visual studio 2012\Projects\MethaLizer\MethaLizer\obj\De
 c:\users\abel\documents\visual studio 2012\Projects\MethaLizer\MethaLizer\obj\Debug\MethaLizer.csproj.GenerateResource.Cache
 c:\users\abel\documents\visual studio 2012\Projects\MethaLizer\MethaLizer\obj\Debug\MethaLizer.exe
 c:\users\abel\documents\visual studio 2012\Projects\MethaLizer\MethaLizer\obj\Debug\MethaLizer.pdb
+C:\teszt\repo\MethaLizer\MethaLizer\bin\Debug\MethaLizer.exe.config
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.exe
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.pdb
+C:\teszt\repo\MethaLizer\MethaLizer\bin\Debug\MethaLizer.exe
+C:\teszt\repo\MethaLizer\MethaLizer\bin\Debug\MethaLizer.pdb
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.csprojResolveAssemblyReference.cache
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.Form1.resources
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.Properties.Resources.resources
+C:\teszt\repo\MethaLizer\MethaLizer\obj\Debug\MethaLizer.csproj.GenerateResource.Cache
